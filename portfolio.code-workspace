@@ -1,0 +1,17 @@
+{
+  "folders": [
+    {
+      "name": "Python Projects",
+      "path": "Python"
+    },
+    {
+      "name": "C Projects",
+      "path": "C"
+    },
+    {
+      "name": "MATLAB Projects",
+      "path": "MATLAB"
+    },
+  ],
+  "settings": {}
+}
